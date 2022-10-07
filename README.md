@@ -1,5 +1,3 @@
-Olá, me chamo David Machado. Sou estudante de desenvolvimento web na Trybe 
-
 <h1 align="center">Olá, me chamo David Machado 👋 </h1>
 <h3 align="center">Estudante de desemvolvimento web na Trybe.</h3>
 
