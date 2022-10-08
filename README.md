@@ -34,8 +34,6 @@
   
 <div align="center">
   
-  ![Snake animation](https://github.com/davidrmachado/davidrmachado/blob/output/github-contribution-grid-snake.svg)
-  
   #### Contato:
   
   <a href = "mailto:davidrmachado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
