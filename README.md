@@ -10,7 +10,9 @@
 <br>
 
 <div align="center">
-#### Tecnologias:
+
+ #### Tecnologias:
+  
 <table>
   <tr>
     <td>JavaScript</td>
