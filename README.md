@@ -8,6 +8,7 @@
 </div>
 
 #### Tecnologias
+<div align="center">
 <table>
   <tr>
     <td>JavaScript</td>
@@ -31,6 +32,7 @@
     <td><img alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></td>
   </tr>
 </table>
+</div>
   
 <div align="center">
   
