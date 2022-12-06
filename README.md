@@ -1,5 +1,5 @@
-<h2 align="center">Olá, me chamo David  👋 </h1>
-<h3 align="center">Estudante de desenvolvimento web na Trybe.</h3>
+<h3 align="center">Olá, me chamo David  👋 </h1>
+<h4 align="center">Estudante de desenvolvimento web na Trybe.</h3>
 
 <div align="center">
   <a href="https://github.com/davidrmachado" />
