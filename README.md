@@ -7,8 +7,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrmachado&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#### Tecnologias
+<br>
+
 <div align="center">
+#### Tecnologias:
 <table>
   <tr>
     <td>JavaScript</td>
